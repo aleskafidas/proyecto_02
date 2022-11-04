@@ -1,1 +1,4 @@
 # proyecto_02
+Importamos las librerias necesarias para hacer el modelo, luego se analizaron los datos y se observa como se distribuyen los datos de la variable a predecir. Algo que analiza, es entender que esta pasando con los datos faltantes.En casi de ser pocos datos, se eliminan los datos atipicos. A modo didactico producen ruido en la prediccion que se intentando hacer en el ejercicio. Sin embargo es importante aclarar que no se deben eliminar datos atipicos sin antes consultar con un experto.
+
+hay que entender las correlaciones y como se distribuyen, y se hacen las limpiezas necesarias en el data set, hay que hacer los mismos cambios en el data set de train y el de test. Hay que tener en cuenta que variables son categoricas  y numericas para poder crear los modelos. En mi caso use regresio logistica para clasificar.
